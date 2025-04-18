@@ -1,1 +1,2 @@
-# sql-project2
+# sql-project
+I started by designing the database schema using concepts of normalization to reduce redundancy. I created multiple interrelated tables using MySQL and applied constraints such as primary keys, foreign keys, NOT NULL, and UNIQUE to maintain data integrity. I used DDL (Data Definition Language) to define and structure the tables, followed by DML (Data Manipulation Language) commands to populate the data.
